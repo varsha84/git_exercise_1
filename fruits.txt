@@ -1,3 +1,5 @@
 apple
-banana
+all banana
 grapes
+orange
+kiwi
